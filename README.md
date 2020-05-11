@@ -6,12 +6,12 @@
 
   ## Table of Contents
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Credits](#credits)
-  *[License](#license)
-  *[Tests](#tests)
-  *[Contact-Info](#contact-info)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Tests](#tests)
+  * [Contact-Info](#contact-info)
   
   ## Istallation
   The installation process was as follows:
