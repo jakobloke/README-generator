@@ -110,7 +110,7 @@ const questions = [
         },
         {
             type: 'list',
-            name: 'licesnse',
+            name: 'license',
             message: 'Please choose from the list of licenses:',
             choices: ['MIT', 'BSD', 'GNUGPLv3', 'Apache2.0', 'GNULGPLv3', 'GNUAGPLv3'],
             validate: licenseListInput => {
